@@ -1,5 +1,6 @@
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="272" src="https://giphy.com/embed/qXR53U25GPeocwivdd/video" width="480"></iframe></div>
-
+<div id="header" align="center">
+  <img src='https://giphy.com/clips/Dashpay-money-federal-reserve-printer-qXR53U25GPeocwivdd' width="100"/>
+</div>
 
 
 
