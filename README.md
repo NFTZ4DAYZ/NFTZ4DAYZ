@@ -20,7 +20,7 @@
   </div>
   
   <div align="center">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZuMiNmcPBMkD6HmsCp/giphy.gif" width="600" height="300"/>
   </div>
   
   ---
@@ -42,7 +42,7 @@ thinking skills, which I regularly use to analyze assymetric information.
 
 ### :hammer_and_wrench: Tech Stack :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" color='yellow' width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
