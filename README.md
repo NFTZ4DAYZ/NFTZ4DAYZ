@@ -36,6 +36,6 @@ I am a Software Engineer and Economist <img src="https://media.giphy.com/media/W
 - :money_mouth_face: As a seasoned Economist, I utilize fundamental and technical analysis to forecast future trends in tech.  I have immense critical
 thinking skills which I regularly use to analyze assymetric information.
 
-- :mailbox:Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-Dexter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dexter-matis-430261243/)
+- :diamond_shape_with_a_dot_inside:Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-Dexter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dexter-matis-430261243/)
 
 
