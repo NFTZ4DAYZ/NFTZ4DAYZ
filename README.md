@@ -27,5 +27,7 @@
 
 ### :man_technologist: About Me :
 
+I am a Software Engineer and Economist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> changing the world, one line of code at a time!
+
 
 
