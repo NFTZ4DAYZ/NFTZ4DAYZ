@@ -34,7 +34,7 @@ I am a Software Engineer and Economist <img src="https://media.giphy.com/media/W
 - :dog: Currently exploring Javascript, Solidity, Blockchain, and Artificial Intelligence.  Much wow!
 
 - :money_mouth_face: As a seasoned Economist, I utilize fundamental and technical analysis to forecast future trends in tech.  I have immense critical
-thinking skills, which I regularly use to analyze assymetric information.
+thinking skills, which I regularly use to analyze assymetric information in the financial markets.
 
 - :diamond_shape_with_a_dot_inside:Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-Dexter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dexter-matis-430261243/)
 
