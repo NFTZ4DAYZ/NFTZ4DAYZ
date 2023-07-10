@@ -27,14 +27,14 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Engineer and Economist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Changing the world, one line of code at a time!
+I am a Software Engineer and Economist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working to change the world, one line of code at a time!
 
 - :computer: I’m passionate about using technology to help people and strive to make the world a better place.
 
-- :dog: Currently exploring Javascript, Solidity, Blockchain, and Artificial Intelligence.  Much wow!
+- :dog: Currently exploring Javascript, React, Python, Solidity, Blockchain, and Artificial Intelligence.  Much wow!
 
 - :money_mouth_face: As a seasoned Economist, I utilize fundamental and technical analysis to forecast future trends in tech.  I have immense critical
-thinking skills, which I regularly use to analyze assymetric information in the financial markets.
+thinking skills, which I regularly use to analyze asymmetric information in the financial markets.
 
 - :diamond_shape_with_a_dot_inside:Let's chat: [![Linkedin Badge](https://img.shields.io/badge/-Dexter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dexter-matis-430261243/)
 
