@@ -25,6 +25,88 @@
   
   ---
 
+  <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Enigmatic Dex</h3>
+        <br />
+        <a target="_blank" href="https://enigmatic-dex-19xr.vercel.app/">
+            <img src="https://i.postimg.cc/vmW9nFp7/enigma.png" width="100%" alt="Dex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/NFTZ4DAYZ/EnigmaticDex" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://enigmatic-dex-19xr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Portfolio</h3>
+        <br />
+      <a target="_blank" href="https://dexdaghost.netlify.app/">
+            <img src="https://i.postimg.cc/d311H8pt/dexdaghost.jpg" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/NFTZ4DAYZ/webportfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dexdaghost.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tacosauras DAO</h3>
+      <br />
+        <a target="_blank" href="https://tacosaurus.vercel.app/">
+          <img src="https://i.postimg.cc/4yd8Q0BB/tacoTaco.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/NFTZ4DAYZ/TACOSAURUS" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://tacosaurus.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Whitelist Dapp</h3>
+        <br />
+        <a target="_blank" href="https://whitelist-dapp-orcin-tau-12.vercel.app/">
+          <img src="https://i.postimg.cc/ThMGXgh6/whitelist-Dapp.jpg" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/NFTZ4DAYZ/Whitelist-Dapp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://whitelist-dapp-orcin-tau-12.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
+
+
 ### :man_technologist: About Me :
 
 I am a Software Engineer and Economist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working to change the world, one line of code at a time!
