@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, Solidity, React, Next.js, ethers.js, & Hardhat</strong> - Decentralized exchange Enigma/ETH </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Web Portfolio</h3>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
   
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Javascript, Solidity, React, Next.js, ethers.js, & Hardhat</strong> - Decentralized autonomous organization "Have a midnight snack"</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Whitelist Dapp</h3>
@@ -101,7 +101,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>Javascript, Solidity, React, Next.js, ethers.js, & Hardhat</strong> - Decentralized application w/ whitelist functionality</p>
     </td>
   </tr>
 </table>
