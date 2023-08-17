@@ -50,7 +50,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Web Portfolio</h3>
         <br />
-      <a target="_blank" href="https://dexdaghost.netlify.app/">
+      <a target="_blank" href="https://dexdaghost.vercel.app/">
             <img src="https://i.postimg.cc/d311H8pt/dexdaghost.jpg" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -59,7 +59,7 @@
   <a href="https://github.com/NFTZ4DAYZ/webportfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://dexdaghost.netlify.app/" target="_blank">
+  <a href="https://dexdaghost.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
